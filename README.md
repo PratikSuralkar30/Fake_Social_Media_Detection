@@ -56,5 +56,5 @@ The frontend provides a dashboard for platform selection and profile analysis.
 
 ## 📊 Model Details
 - **Algorithm**: Random Forest Classifier
-- **Accuracy**: ~90.56%
+- **Accuracy**: ~92%
 - **Input Features**: 12 profile metrics mapped to a 17-feature model vector.
